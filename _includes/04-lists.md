@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+:heart:
+:+1:
+-table 1
+  -emojis
+  -use::
+*table 2
+  *ordered lists
+  *unordered lists
